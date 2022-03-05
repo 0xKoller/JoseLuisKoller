@@ -5,13 +5,14 @@ I'm Koller and currently building stuff
 - I like anime and videogames
 - Yes, I'm into crypto
 
-# Skills
+# Skills 🔨
 - JS
 - React
 - Python
 - Java
+
 & other stuff ...
 
-# Contact
+# Contact 📧
 You can find all of my social media <a href="https://linktr.ee/JLKoller"> here </a> or email.
 
